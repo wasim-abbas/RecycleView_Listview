@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycle_nd_Listview</string>
+    <string name="tvString">Hello World!</string>
+    <string name="listview">ListView</string>
+    <string name="recycleview">RecycleView</string>
+    <string name="click_on_buttons_to_see_listview_and_recycleview">Click on Buttons To see Listview and RecycleView</string>
+</resources>
