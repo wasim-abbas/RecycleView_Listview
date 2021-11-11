@@ -36,8 +36,6 @@ class MyAdapterView : RecyclerView.Adapter<MyAdapterView.PhotoHolder>() {
             mytext.setOnClickListener {
                 val pos: Int = adapterPosition
                 val name: String = cars[pos]
-
-
                 Toast.makeText(v.context, "${name} :$pos", Toast.LENGTH_SHORT).show()
 
             }
